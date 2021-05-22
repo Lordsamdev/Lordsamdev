@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ... As many Open Source projects as I can!
 - 📫 How to reach me ... on Twitter @theReal_LordSam
 
-<!---
-Lordsamdev/Lordsamdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
